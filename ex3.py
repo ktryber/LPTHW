@@ -2,7 +2,9 @@
 # - minus == subtraction
 # / slash == division
 # * asterik == multiplication
-# % percent == Mostly that's just how the designers chose to use that symbol. In normal writing you are correct to read it as a "percent." In programming this calculation is typically done with simple division and the / operator. The % modulus is a different operation that just happens to use the % symbol.
+# % percent == Mostly that's just how the designers chose to use that symbol. In normal writing you are correct to 
+# read it as a "percent." In programming this calculation is typicaly done with simple division and the / operator. 
+# The % modulus is a different operation that just happens to use the % symbol.
 # < less-than
 # > greater-than
 # <= less-than-equal
